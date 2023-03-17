@@ -1,5 +1,5 @@
-# PIAIC JS Assignments
-PIAIC Java-script assignments content and sample
+# JS Assignments
+Java-script assignments content and sample
 
 [```JAVA-SCRIPT BOOK PDF``` ](JavaScriptBook.pdf)
 
@@ -7,9 +7,6 @@ Step By Step guide to learn Java Script.
 [```Learn-JavaScript``` ](https://github.com/hirashoaib/learn-javascript)
 by [Madam Hira Shoaib](https://github.com/hirashoaib/)
 
-
-[```Learn-JavaScript``` ](https://github.com/uqutub/learn-javascript)
-by [Sir Yousuf](https://github.com/uqutub)
 
 #### Contents:
   1. [Chapter -1 2 3](ch_1_2_3/README.md)
@@ -25,9 +22,3 @@ by [Sir Yousuf](https://github.com/uqutub)
   
 
 ----------------------
-
-### Announcement:-
-
-All the assignments you complete in the class or in the zoom lecture... Upload your all assignments in a single Github repository. Attached GitHub link in the google form.
-
-https://forms.gle/zuHdWbQ4rTG4ibpW9
