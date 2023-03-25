@@ -1,5 +1,7 @@
-## JS chapter 18 19 20
-Java-script assignments chapter 18 19 20
+## JS chapter 5,6,7
+Java-script assignments chapter 5, 6, 7
 
-#### Make a TODO
-Customize previous assignment "ch_15_16_17" with for loop...
+1. declare a variable for Number 'a' ```for example a value is 2```
+2. declare a variable for Number 'b'  ```for example b value is a++ + ++a - --a + a--```
+3. print meassage in alert() ```variable a``` 
+4. print meassage in alert() ```variable b``` 
